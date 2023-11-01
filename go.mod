@@ -1,1 +1,1 @@
-module importtest
+module github.com/buptWYChen/importtest
